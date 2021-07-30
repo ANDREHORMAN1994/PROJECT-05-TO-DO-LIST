@@ -13,7 +13,7 @@
 
 <span align="center">
 
-**[ABRIR PROJETO NO NAVEGADOR]()**
+**[ABRIR PROJETO NO NAVEGADOR](https://andrehorman1994.github.io/PROJECT-05-TO-DO-LIST/)**
 
 </span>
 
